@@ -50,7 +50,7 @@ int main()
     //Nebula variables
     Texture2D nebula = LoadTexture("textures/12_nebula_spritesheet.png");
 
-    const int sizeOfNebulae{3};
+    const int sizeOfNebulae{8};
 
     AnimData nebulae[sizeOfNebulae]{};
 
